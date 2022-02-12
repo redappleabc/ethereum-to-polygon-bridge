@@ -19,4 +19,5 @@ To add the image for a token, add the png file to the public directory. Make sur
 4. To run the dapp
 ```
 npm run dev
+
 ```
